@@ -16,4 +16,3 @@ Perform data exploration and data cleaning
 Build a dashboard using Power BI to visualize data in such a way that important aspects of the business become very clear and can be used as a basis for discussion with the management
 Microsoft Power BI Excel
 
-https://github.com/UtkarshGarg99/PWC-Virtual-Internship-Project-1---Call-Center-Analysis/assets/141243908/32f3851d-7644-4f52-96bb-cb32b2641206
